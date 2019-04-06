@@ -17,7 +17,7 @@ def mean_squared_error(x, y, w):
     :param y: ciag wyjsciowy Nx1
     :param w: parametry modelu (M+1)x1
     :return: blad sredniokwadratowy pomiedzy wyjsciami y
-    oraz wyjsciami uzyskanymi z wielowamiu o parametrach w dla wejsc x
+    oraz wyjsciami uzyskanymi z wielowamiu o parametrach w dla wejsc x. Elo
     """
 
     '''
